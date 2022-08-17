@@ -58,7 +58,7 @@ public class TestTaskFour extends AbstractTest {
 //        Method testSettingJobIdMethod = jobTestClass.getMethod("testSettingJobId");
 //
 //        new Expectations() {{
-//            assertNotEquals(anyInt, anyInt);
+//            Assert.assertNotEquals(anyInt, anyInt);
 //        }};
 //
 //        testSettingJobIdMethod.invoke(jobTest);
